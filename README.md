@@ -359,20 +359,7 @@ The main evaluation metric was:
 ```text
 Accuracy
 ```
-
-### Results
-
-> Replace the values below with the exact final values from the ViT notebook.
-
-```text
-Training Accuracy : XX.XX%
-Validation Accuracy : XX.XX%
-Test Accuracy : XX.XX%
-```
-
-Training and validation loss curves were also monitored to understand model convergence and detect overfitting.
-
----
+-------
 
 # Key Learnings
 
